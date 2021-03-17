@@ -1,0 +1,4 @@
+# Referenced at /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:22
+-keep class com.example.bytebank.MainActivity { <init>(...); }
+# Referenced at /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/89ac649debe96f8bed7b6622723d8ed3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8ea7386ad047688d271ffc68c801807a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8945a5f2204e97e8921520351eab5a9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e4ff477ce7e474f158ff42320d6087d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/54f1f3e21a68477146e3fbaff0f74c79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e5c0b23ff07b4fcb25b068aab39aac2b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/311428af06ce77f5b1acfc2988307811/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ea3a89c26ab3d10209aa96acb2c21cdb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/782875de2d21340bd48191e41500f55a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4987adb16a49587266bbad16df4dde8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/bebf9522b79a6158ba31ea519eea3ef8/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7d8610ca49e5d499f80bb828466657a8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/bebf9522b79a6158ba31ea519eea3ef8/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/bebf9522b79a6158ba31ea519eea3ef8/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.bytebank.MainActivity
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/89ac649debe96f8bed7b6622723d8ed3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/89ac649debe96f8bed7b6622723d8ed3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8ea7386ad047688d271ffc68c801807a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/8ea7386ad047688d271ffc68c801807a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8945a5f2204e97e8921520351eab5a9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8945a5f2204e97e8921520351eab5a9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e4ff477ce7e474f158ff42320d6087d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/e4ff477ce7e474f158ff42320d6087d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/54f1f3e21a68477146e3fbaff0f74c79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/54f1f3e21a68477146e3fbaff0f74c79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e5c0b23ff07b4fcb25b068aab39aac2b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/e5c0b23ff07b4fcb25b068aab39aac2b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/311428af06ce77f5b1acfc2988307811/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/311428af06ce77f5b1acfc2988307811/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ea3a89c26ab3d10209aa96acb2c21cdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/ea3a89c26ab3d10209aa96acb2c21cdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/782875de2d21340bd48191e41500f55a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/782875de2d21340bd48191e41500f55a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4987adb16a49587266bbad16df4dde8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/4987adb16a49587266bbad16df4dde8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/bebf9522b79a6158ba31ea519eea3ef8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/bebf9522b79a6158ba31ea519eea3ef8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7d8610ca49e5d499f80bb828466657a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/7d8610ca49e5d499f80bb828466657a8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/android/app/src/main/AndroidManifest.xml

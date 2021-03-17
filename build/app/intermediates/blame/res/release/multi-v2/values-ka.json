@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-ka/values-ka.xml",
+            "map": [
+                {
+                    "source": "/Users/henriquemontenegro/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/0713ac77e98f0acd49b90e7ae7366447/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
