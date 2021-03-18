@@ -5,8 +5,16 @@ class Saldo extends ChangeNotifier {
 
   Saldo(this.valor);
 
-  void adiciona(double adiciona) {
+  void adiciona(double valor) {
     this.valor += valor;
+
+    notifyListeners();
+  }
+
+  void subtrai(double valor) {
+    this.valor -= valor;
+
+    notifyListeners();
   }
 
   @override
