@@ -80,6 +80,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "provider",
+      "rootUri": "file:///Volumes/Dados-HD/Development-HD/flutterEnv/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Volumes/Dados-HD/Development-HD/flutterEnv/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-03-17T22:59:22.773338Z",
+  "generated": "2021-03-18T01:32:56.137530Z",
   "generator": "pub",
   "generatorVersion": "2.9.2"
 }
