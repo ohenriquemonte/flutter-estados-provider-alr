@@ -1,4 +1,4 @@
-#Thu Mar 18 12:22:25 BRT 2021
+#Wed Mar 24 09:28:13 BRT 2021
 base.0=/Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-estados-provider-alr/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
